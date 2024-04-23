@@ -1,0 +1,2 @@
+# WeForex
+A simple webpage
